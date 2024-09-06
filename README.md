@@ -1,7 +1,12 @@
-# Node + Express Service Starter
+# Aplicação - CRUD
 
-This is a simple hello world express.js server.
+Ferramentas utilizadas:
+* JWT
+* Node.js
+* Express
+* MongoDB/Mongoose
+* Sequelize
+* PostgreSQL
 
-## Getting Started
+Projeto inicialmente elaborado pelo site idx.google.com e exportado para o presente repositório.
 
-Previews should run automatically when starting a workspace. Run the `Show Web Preview` IDX command to see the preview.
